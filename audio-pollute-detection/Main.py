@@ -1,4 +1,5 @@
 # Imports
+# Imports
 import os, warnings, time, math, librosa
 import numpy as np
 from scipy import stats
@@ -12,10 +13,7 @@ from sklearn.feature_selection import SelectFromModel, SelectKBest, GenericUniva
 from sklearn.model_selection import train_test_split
 import HandleInput as hi
 import tensorflow as tf
-# import TorchCNN2D as tcnn2d
-import DeepANN as ann, DeepANNLSTM as annlstm
 import DeepCNN1D as cnn1d, DeepCNN2D as cnn2d
-import DeepCNN1DLSTM as cnn1dlstm, DeepCNN2DLSTM as cnn2dlstm
 
 
 # Utility
