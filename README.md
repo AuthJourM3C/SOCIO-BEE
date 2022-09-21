@@ -3,7 +3,7 @@ Machine learning scripts for the HE SOCIO-BEE project
 
 For polluting source detection you may use the Uranp dataset
 
-For the 3-class SMO (Speech-Music-Others) task, the LVLib datasets have been used:
+For the 3-class SMO (Speech-Music-Others) task, the LVLib datasets have been used:  
 [LVLib-SMO-v1](http://research.playcompass.com/files/LVLib-SMO-1.zip)  
 [LVLib-SMO-v2](http://research.playcompass.com/files/LVLib-SMO-2.zip)  
 [LVLib-SMO-v3](http://research.playcompass.com/files/LVLib-SMO-3.zip)  
