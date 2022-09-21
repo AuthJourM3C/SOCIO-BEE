@@ -9,7 +9,7 @@ For the 3-class SMO (Speech-Music-Others) task, the LVLib datasets have been use
 [LVLib-SMO-v2](https://research.playcompass.com/files/LVLib-SMO-2.zip)  
 [LVLib-SMO-v3](https://research.playcompass.com/files/LVLib-SMO-3.zip)  
 [LVLib-SMO-v4](https://research.playcompass.com/files/LVLib-SMO-4.zip)  
-[LVLib-SMO-v9](https://research.playcompass.com/files/LVLib-SMO-9.zip)
+[LVLib-SMO-v9](mailto:lvrysis@auth.gr)
 
 For the 10-class ESR (Environmental Sound Recognition) task, the UrbanSound8k dataset has been exploited:   
 [UrbanSound8k](https://urbansounddataset.weebly.com/urbansound8k.html)
