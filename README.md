@@ -1,5 +1,5 @@
 # SOCIO-BEE
-Machine learning scripts for the HE SOCIO-BEE project
+Machine learning scripts for the H2020 SOCIO-BEE project (https://socio-bee.eu/)
 
 For polluting source detection, the Urban Air-Noise Pollution (UrANP) has been created and used:    
 [UrANP](https://research.playcompass.com/files/UrANP.zip)  
