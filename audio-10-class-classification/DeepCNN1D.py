@@ -28,7 +28,6 @@ class Roll1D(layers.Layer):
 
         return x_roll
 
-
 def train(x_train, y_train, x_test, y_test, epochs, few_shot_size=1, aggr_size=1):
 
     print('\nInitializing CNN1D...')
@@ -68,7 +67,6 @@ def train(x_train, y_train, x_test, y_test, epochs, few_shot_size=1, aggr_size=1
 
     # model format
     type = 1
-
     # model parameters
     filters = 32
     size = 8
@@ -876,4 +874,5 @@ def retrain(x_train, y_train, x_test, y_test, epochs, batch_size=128, verbose=2)
     time.sleep(2)
 
     # results
+
     return score[1]
